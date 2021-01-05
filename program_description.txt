@@ -1,7 +1,0 @@
-Willkommen!
-Das hier ist ein Programm zur Automatischen Charaktergenerierung 
-für Dungeons and Dragons.
-Ich nehme dich mit auf ein kleines Abenteuer bei dem du die ein oder andere
-Entscheidung treffen musst. 
-Im Anschluss wird das Ergebnis ausgewertet und ein passender Charakter wird für dich erstellt.
-Ich wünsche dir ein spannendes Abenteuer!
