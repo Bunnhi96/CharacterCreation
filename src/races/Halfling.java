@@ -4,11 +4,10 @@ public class Halfling extends BaseRace{
 	private String race_name = "Halbling";
 	private String language = "Gemeinsprache und Halblingisch";
 	public Halfling() {
-		
-	}
-	
-	public String setRaceName () {
-		return race_name;
+		setRaceName(race_name);
+		setLanguage(language);
+		setDexterity(2);
+		setSpecificQuestion("Unterart: ");
 	}
 
 }

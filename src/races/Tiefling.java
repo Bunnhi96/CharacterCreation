@@ -4,10 +4,9 @@ public class Tiefling extends BaseRace{
 	private String race_name = "Tiefling";
 	private String language = "Gemeinsprache und Infernalisch";
 	public Tiefling() {
-		
-	}
-	
-	public String setRaceName () {
-		return race_name;
+		setRaceName(race_name);
+		setLanguage(language);
+		setCharisma(2);
+		setSpecificQuestion("Aufgrund des Paktes mit dem Teufel lebst du: ");
 	}
 }

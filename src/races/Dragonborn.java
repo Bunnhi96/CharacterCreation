@@ -5,11 +5,10 @@ public class Dragonborn extends BaseRace {
 	private String language = "Gemeinsprache und Drakonisch";
 	
 	public Dragonborn() {
-		
+		setRaceName(race_name);
+		setLanguage(language);
+		setStrength(2);
+		setSpecificQuestion("Enstammung der Drachenlinie: ");
 	}
 
-	
-	public String setRaceName () {
-		return race_name;
-	}
 }
