@@ -66,8 +66,7 @@ public class CharacterQuestions extends CharacterGUI{
 		try{
 			//input stream for reading special characters in German	
 			//documents from folder textfiles
-        	BufferedReader rd = new BufferedReader(new FileReader("textfiles/" + doc));
-        	//BufferedReader rd = new BufferedReader(new InputStreamReader(new FileInputStream("textfiles/" + doc),StandardCharsets.UTF_8));
+        	BufferedReader rd = new BufferedReader(new InputStreamReader(new FileInputStream("textfiles/" + doc),StandardCharsets.UTF_8));
         	while ((line=rd.readLine()) != null) {
         		//question/text
         		if (count == 0) {
