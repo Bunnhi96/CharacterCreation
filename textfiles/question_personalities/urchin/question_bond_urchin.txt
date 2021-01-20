@@ -1,0 +1,6 @@
+Heimat;Meine Stadt oder mein Dorf sind meine Heimat, und ich werde kämpfen, um sie zu verteidigen.
+Unterstützung;Ich unterstütze ein Waisenhaus, damit andere nicht das durchmachen müssen, was ich erlebt habe.
+Dankbarkeit;Ich verdanke mein Überleben einem anderen Straßenkind, das mir beigebracht hat, wie man in den Fassen zurechtkommt.
+Schuld;Ich habe Schulden, die ich niemals zurückzahlen kann, bei einer Person, die Mitleid mit mir hatte.
+Diebstahl;Ich bin der Armut entkommen, weil ich eine hochrangige Person ausgeraubt habe. Deshalb werde ich jetzt gesucht.
+Verlust;Niemand anderer sollte die Entbehrungen durchmachen, die ich hinter mich gebracht habe.

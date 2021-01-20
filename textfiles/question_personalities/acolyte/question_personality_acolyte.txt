@@ -1,0 +1,8 @@
+nachahmend;Ich habe einen bestimmten Helden meines Glaubens zum Vorbild und beziehe mich ständig auf die Taten und Beispiele dieser Person.
+emphatisch;Ich bin in der Lage, selbst mit dem erbitteresten Feind eine gemeinsame Basis zu finden, mich in ihn einzufühlen. Stetig arbeite ich daran, Frieden zu verbreiten.
+ergeben;Ich sehe in jedem Ereignis und jeder Handlung ein Vorzeichen. Die Götter sprechen zu uns, wir müssen nur zuhören.
+optimistisch;Nichts kann meine optimistische Eintstellung erschüttern.
+fromm/ungläubig;In fast jeder Lebenslage zitiere ich (oder verdrehe) heilige Texte und Sprichworte.
+tolerant/intolerant;Ich bin tolerant (oder intolerant) gegenüber anderen Glaubensrichtungen und respektiere (oder verdamme) die Anbetung anderer Götter.
+verwöhnt;Ich war es gewohnt, feine Speisen und Getränke in den gehobenen Kreisen der Priesterschaft zu genießen. Das raue Leben ertrage ich nur schwerlich.
+introvertiert;Ich habe so viel Zeit im Tempel verbracht, dass ich kaum Erfahrungen im Umgang mit der übrigen Welt besitze.

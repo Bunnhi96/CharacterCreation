@@ -1,0 +1,6 @@
+ängstlich;Wenn ich in Unterzahl bin, fliehe ich vor einem Kampf.
+geldgierig;Schon ein einziges Goldstück ist für mich ein wahrer Schatz. Ich würde so gut wie alles tun, um mehr davon zu bekommen.
+misstrauisch;Niemals werde ich jemand anderem völlig vertrauen als mir selbst.
+hinterlistig;Ich würde eher jemaden im Schlaf töten, als fair mit ihm zu kämpfen.
+unmoralisch;Es ist kein Diebstahl, wenn ich etwas mehr brauche als jemand anderes.
+egozentrisch;Jeder, der nicht auf sich selbst aufpassen kann, bekommt, was er verdient.

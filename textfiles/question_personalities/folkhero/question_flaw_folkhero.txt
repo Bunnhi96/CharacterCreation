@@ -1,0 +1,6 @@
+ängstlich;Der Tyrann, der mein Land beherrscht, wird vor nichts zurückschrecken, um meinen Tod herbeizuführen.
+naiv;Ich bin von der Wichtigkeit meines Schicksals überzeugt und sowohl blind für meine Unzulänglichkeiten als auch vor der Gefahr zu scheitern.
+beschämt;Alle, die mich seit meiner Kindheit kennen, wissen von meinen beschämenden Geheimnis. Daher kann ich niemals nach Hause zurückkehren.
+süchtig;Ich habe eine Schwäche für die Laster der Stadt, besonders für harten Alkohol.
+machthaberisch;Insgeheim glaube ich daran, dass alles besser wäre, wenn ich als Alleinherrscher das Land regieren würde.
+misstrauisch;Mir fällt es schwer, meinen Verbündeteten zu vertrauen.

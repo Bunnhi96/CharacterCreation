@@ -2,7 +2,10 @@ package classes;
 
 public class Wizard extends BaseClass{
 	private String class_name = "Magier";
+	private String specificQuestion ="Du hast folgende Schule besucht: ";
+	
 	public Wizard() {
+		diceAttributes();
 		setClassName(class_name);
 		setStartGold(4,10);
 		setIntelligence(attributes[5]);	
@@ -23,7 +26,7 @@ public class Wizard extends BaseClass{
 		}
 		
 
-		setSpecificQuestion("Du hast folgende Schule besucht: ");
+		setSpecificQuestion(specificQuestion);
 	}
 
 }

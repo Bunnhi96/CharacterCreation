@@ -1,0 +1,16 @@
+Die Hintergrundinformationen definieren deine Persönlichkeit.
+Deine tiefe Motivation deiner Reise entstammt deiner Herkunft als:
+
+Tempeldiener;acolyte
+Scharlatan;charlatan
+Krimineller;criminal
+Unterhaltungskünstler;entertainer
+Volksheld;folkhero
+Zunfthandwerker;guildartisan
+Einsiedler;hermit
+Adeliger;noble
+Sonderling;outlander
+Weiser;sage
+Seemann/Seefrau;sailor
+Soldat;soldier
+Straßenkind;urchin

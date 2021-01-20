@@ -2,7 +2,10 @@ package classes;
 
 public class Fighter extends BaseClass {
 	private String class_name = "Kämpfer";
+	private String specificQuestion ="Spezialisiert auf Kampfstil: ";
+	
 	public Fighter() {
+		diceAttributes();
 		setClassName(class_name);
 		setStartGold(5,10);
 		setStrength(attributes[5]);
@@ -21,7 +24,7 @@ public class Fighter extends BaseClass {
 			
 		}
 
-		setSpecificQuestion("Spezialisiert auf Kampfstil: ");
+		setSpecificQuestion(specificQuestion);
 	}
 
 }

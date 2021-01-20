@@ -1,0 +1,8 @@
+schweigsam;Ich war so lange allein, dass ich kaum spreche und Gesten und gelegentliches Knurren bevorzuge.
+ruhig;Ich besitze eine fast übernatürliche Ruhe, selbst im Angesicht einer Katastrophe.
+hilfreich;Das Oberhaupt meiner Gemeinschaft konnte mir zu jedem Aspekt des Lebens etwas Weises sagen, und ich bin bemüht die Weisheit zu teilen.
+mitfühlend;Ich empfinde ein starkes Mitgefühl für alle, die leiden müssen.
+engstirnig;Ich bin unempfänglich für Etikette und gesellschaftliche Erwartungen.
+fatalisch;Ich bringe alles, was passiert, mit mir und einem großen kosmischen Plan in Verbindung.
+nachdenklich;Ich verliere mich oft in meinen Gedanken und blende die Umgebung einfach aus.
+ideenreich;Ich arbeite an einer großen philosophischen Abhandlung und liebe es, meine Ideen mitzuteilen.

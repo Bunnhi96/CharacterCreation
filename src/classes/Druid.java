@@ -2,7 +2,10 @@ package classes;
 
 public class Druid extends BaseClass {
 	private String class_name = "Druide";
+	private String specificQuestion ="Du bist geübt in foldenden Waffen: ";
+	
 	public Druid() {
+		diceAttributes();
 		setClassName(class_name);
 		setStartGold(2,10);
 		setWisdom(attributes[5]);
@@ -20,7 +23,7 @@ public class Druid extends BaseClass {
 			setCharisma(attributes[3]);
 			
 		}
-		setSpecificQuestion("Du bist geübt in foldenden Waffen: ");
+		setSpecificQuestion(specificQuestion);
 	}
 
 }

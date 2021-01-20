@@ -1,0 +1,6 @@
+untergeben;Ich folge Befehle, auch wenn ich sie für falsch halte.
+faul;Ich würde alles behaupten, um zusätzlicher Arbeit aus dem Weg zu gehen.
+gleichgültig;Sobald jemand meinen Mut infrage stellt, hält mich nichts mehr zurück, gleichgültig wie gefährlich die Situation ist.
+süchtig;Habe ich erest einmal angefangen zu trinken, vermag ich nicht mehr aufzuhören.
+habgierig;Ich kann nichts dagegen tun: Ich muss jede lose Münze und anderen Tand einstecken, der mir in die Finger kommt.
+stolz;Mein Stolz wird mich eines Tages in Verderben stürzen.

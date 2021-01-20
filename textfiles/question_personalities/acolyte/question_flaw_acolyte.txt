@@ -1,0 +1,6 @@
+kritisch;Ich urteile streng über andere und noch strenger über mich selbst.
+unterwürfig;Ich setze zu großes Vertrauen in die Machthaber innerhalb der Hierarchie meines Tempels.
+mitfühlend;Mein Mitgefühl lässt mich manchmal denen, die sich zum Glauben an meinen Gott bekennen, blind vertrauen.
+unaufgeschlossen;Ich bin in meinem Denken engstirnig und unaufgeschlossen.
+misstrauisch;Fremden gegenüber bin ich äußerst misstrauisch und erwarte nur das Schlimmste von ihnen.
+versessen;Wenn ich mir einmal ein viel setze, werde ich davon wie besessen, was mein übriges Leben völlig in den Hintergrund rücken lässt.

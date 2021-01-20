@@ -1,0 +1,8 @@
+bedürftig;Essensabfälle und Plunder, der vielleicht noch nützlich sein könnte, verstaue ich unauffällig in meinen Taschen.
+wissbegierig;Ich stelle viele Fragen.
+geheimnisvoll;Ich mag es, mich in enge Orte zu quetschen, an denen mich niemand erreichen kann.
+ängstlich;Ich schlafe immer mit dem Rücken zu einem Baum oder einer Wand und halte alles, was ich besitze, in einem Bündel verschnürt in meinen Armen.
+ordinär;Ich fresse wie ein Schwein und habe schlechte Umgangsformen.
+misstrauisch;Ich bin überzeugt davon, dass jeder, der nett zu mir ist, etwas Böses im Schilde führt.
+pingelig;Ich mag es nicht zu baden.
+geradlinig;Ich spreche geradeheraus an, was andere nur andeuten oder zu verstecken versuchen.

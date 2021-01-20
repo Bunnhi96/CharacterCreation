@@ -1,0 +1,8 @@
+reisefreudig;Ich werde von der Wanderlust getrieben, die mich mein Zuhause verlassen ließ.
+protektiv;Ich wache über meine Freunde, als ob sie ein Wurf neugeborener Welpen wären.
+edelmütig;Einmal lief ich 40 km ohne eine einzige Pause, um meinen Stamm vor einer nahenden Horde Orks zu warnen. Ich würde es jederzeit wieder tun.
+erfahren;Zu jeder Situation kenn ich eine Lektion, die ich aus der Beobachtung der Natur gezogen habe.
+wesentlich;Ich lege keinen Wert auf Reichtum oder Höflichkeit. Geld und Manieren werden dich nicht vor einem hungrigen Eulenbären beschützen.
+tollpatschig;Ich hebe ständig Dinge auf, spiele damit herum und mache sie dann aus Versehen kaputt.
+tierlieb;Ich fühle mich unter Tieren wohler als unter humanoiden Wesen.
+wild;Ich wurde von Wölfen aufgezogen.

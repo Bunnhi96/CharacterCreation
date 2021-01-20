@@ -1,0 +1,11 @@
+Du lebst mit deinen zwei jüngeren Halbgeschwistern und eurer Mutter. 
+Deine Geschwister kommen nach deiner Mutter.
+Du selbst kommst nach deinem Vater, der vor langer Zeit verstorben ist. 
+Er besitzt:
+
+körperliche Kraft;/question_race/question_race_strength
+analytische Fähigkeiten;/question_race/question_race_intelligence
+ausgeprägte Reflexe;/question_race/question_race_dexterity
+gute Auffassunggabe;/question_race/question_race_wisdom
+hohe Widerstandskraft;/question_race/question_race_constitution
+starkes Selbstbewusstsein;/question_race/question_race_charisma

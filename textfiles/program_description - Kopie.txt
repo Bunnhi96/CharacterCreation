@@ -1,0 +1,9 @@
+Willkommen Abenteurer!
+Das hier ist ein Programm zur Automatischen Charaktergenerierung für Dungeons and Dragons.
+Dir werden eine handvoll Fragen gestellt. Du wirst die ein oder andere Entscheidung treffen müssen.
+Im Anschluss wird das Ergebnis ausgewertet und ein passender Charakter wird für dich erstellt.
+(Alle Fragen und Sätze in dieser Anwendung wurden aus den Informationen des offizielen Regelwerks von Dungeons & Dragons erstellt. 
+Vergleiche hierfür das Buch: von B. Cordell, J. Wyatt und R. J. Schwalb, Dungeons & Dragons Players Handbook - Spielerhandbuch, Litauen: Gale Force Nine, 2018.)
+
+Starte jetzt dein Abenteuer;question_1
+Zufallscharakter;question_1

@@ -1,0 +1,10 @@
+Du und dein bester Freund verabredet euch täglich. Obwohl ihr aus zwei 
+unterschiedlichen Völkern stammt, seid ihr beiden unzertrennlich. 
+Denn er ist ein Zwerg und du ein:
+
+Mensch;/specific_race/question_human;Human
+Drachenblütiger;/specific_race/question_dragonborn;Dragonborn
+Halbelf;/specific_race/question_halfelf;Half_Elf
+Tiefling;/specific_race/question_tiefling;Tiefling
+Elf;/specific_race/question_elf;Elf
+Halbling;/specific_race/question_halfling;Halfling

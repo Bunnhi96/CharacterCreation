@@ -1,0 +1,8 @@
+Gemeinsam trainiert ihr für euren großen gemeinsamen Lebenstraum. 
+Die Reise zur königlichen Hauptstadt Arcania. Eure beiden Väter dienten in der
+königlichen Armee. Ehe beiden der frühe Tod im zweiten Ogerkrieg ereilte.
+Auch du möchtest dich als ... im königlichen Dienst behaupten.
+
+Magier;/specific_class/question_wizard;Wizard
+Druide;/specific_class/question_druid;Druid
+Schurke;/specific_class/question_rogue;Rogue

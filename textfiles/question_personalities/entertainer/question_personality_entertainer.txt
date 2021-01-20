@@ -1,0 +1,8 @@
+unterhaltsam;Ich kenn fast zu jeder Situation eine passende Geschichte.
+geschwätzig;Wen ich an einen neuen Ort komme, sammle ich Gerüchte und vertreite Tratsch.
+schwärmerisch;Ich bin ein hoffnungsloser Romantiker und bin immer auf der Suche nach der einen besonderen Person.
+fröhlich;Niemand kann lange auf mich oder in meiner Nähe wütend sein, da ich jede Art von Spannung sofort verfliegen lasse.
+schadenfreudig;Ich liebe gute Beleidigungen, sogar wenn sie gegen mich gerichtet sind.
+selbstdarstellerisch;Ich bin eingeschnappt, wenn ich nicht der Mittelpunkt der Aufmerksamkeit bin.
+perfektionistisch;Ich strebe nach nichts Geringerem als der Perfektion.
+launisch;Ich ändere meine Stimmung oder meine Meinung so schnell wie die Akkorde in einem Lied.

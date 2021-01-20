@@ -2,7 +2,10 @@ package classes;
 
 public class Sorcerer extends BaseClass{
 	private String class_name = "Zauberer";
+	private String specificQuestion ="Magieabstammung: ";
+	
 	public Sorcerer() {
+		diceAttributes();
 		setClassName(class_name);
 		setStartGold(3,10);
 		setCharisma(attributes[5]);
@@ -20,6 +23,6 @@ public class Sorcerer extends BaseClass{
 			setWisdom(attributes[3]);
 		}
 
-		setSpecificQuestion("Magieabstammung: ");
+		setSpecificQuestion(specificQuestion);
 	}
 }

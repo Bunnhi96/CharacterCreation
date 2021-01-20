@@ -1,0 +1,12 @@
+Du entstammst einer Drachenlinie mit folgender Farbe:
+
+Schwarz
+Blau
+Messing
+Bronze
+Kupfer
+Gold
+Grün
+Rot
+Silber
+Weiß

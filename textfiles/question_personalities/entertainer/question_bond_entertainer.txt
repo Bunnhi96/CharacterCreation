@@ -1,0 +1,6 @@
+Erinnerung;Mein Instrument ist mein wertvollster Besitz. Es erinnert mich an jemanden, den ich liebe.
+Rache;Jemand hat mein geliebtes Instrument gestohlen. Eines Tages werde ich es wieder in meinen Händen halten.
+Ruhm;Ich will berühmt sein. Koste es, was es wolle!
+Vorbild;Ich verehre einen Held aus alten Sagen und messe meine Taten an dieser Person.
+Überlegenheit;Ich werde alles tun, um mich in meinem Rivalen gegenüber als überlegen zu erweisen.
+Freundschaft;Die Mitglieder meiner alten Schaustellertruppe sind die wichtigsten Personen in meinem Leben.

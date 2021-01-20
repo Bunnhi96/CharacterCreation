@@ -1,0 +1,6 @@
+habgierig;Ich würde alles tun, um etwas in meine Hände zu bekommen, das äußerst selten und unbezahlbar ist.
+misstrauisch;Ich bin schnell davon überzeugt, dass mich jemand über den Tisch ziehen will.
+hinterlistig;Niemand darf jemals erfahren, dass ich mit Geld aus der Zunftkasse verschwunden bin.
+unzufrieden;Ich bin nie zufrieden mit dem, was ich habe. Ich will immer mehr.
+machtgierig;Ich würde töten, um einen Adelstitel zu erlangen.
+neidisch;Ich bin schrecklich neidisch auf jeden, der mich in meinem Handwerk übertreffen kann. Wo ich auch hinkomme, bin ich von Rivalen umgeben.

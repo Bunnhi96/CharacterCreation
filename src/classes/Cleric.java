@@ -2,7 +2,10 @@ package classes;
 
 public class Cleric extends BaseClass{
 	private String class_name = "Kleriker";
+	private String specificQuestion ="Du verkörperst das Merkmal deiner Gottheit: ";
+	
 	public Cleric() {
+		diceAttributes();
 		setClassName(class_name);
 		setStartGold(5,10);
 		setWisdom(attributes[5]);
@@ -20,7 +23,7 @@ public class Cleric extends BaseClass{
 			setConstitution(attributes[3]);
 			
 		}
-		setSpecificQuestion("Du verkörperst das Merkmal deiner Gottheit: ");
+		setSpecificQuestion(specificQuestion);
 	}
 }
 

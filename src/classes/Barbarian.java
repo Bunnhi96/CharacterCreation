@@ -2,8 +2,10 @@ package classes;
 
 public class Barbarian extends BaseClass {
 	private String class_name = "Barbar";
+	private String specificQuestion ="Du bist geübt in folgenden Waffen: ";
 	
 	public Barbarian() {
+		diceAttributes();
 		setClassName(class_name);
 		setStartGold(2,10);
 		setStrength(attributes[5]);
@@ -22,7 +24,7 @@ public class Barbarian extends BaseClass {
 			
 		}
 		
-		setSpecificQuestion("Du bist geübt in folgenden Waffen: ");
+		setSpecificQuestion(specificQuestion);
 	}
 
 }

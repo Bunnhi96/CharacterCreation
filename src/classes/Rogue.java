@@ -2,7 +2,10 @@ package classes;
 
 public class Rogue extends BaseClass {
 	private String class_name = "Schurke";
+	private String specificQuestion ="Du trägst immer folgendes bei dir: ";
+	
 	public Rogue() {
+		diceAttributes();
 		setClassName(class_name);
 		setStartGold(4,10);
 		setDexterity(attributes[5]);
@@ -20,7 +23,7 @@ public class Rogue extends BaseClass {
 			setWisdom(attributes[3]);
 		}
 
-		setSpecificQuestion("Du trägst immer folgendes bei dir: ");
+		setSpecificQuestion(specificQuestion);
 	}
 
 }

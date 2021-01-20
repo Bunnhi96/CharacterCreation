@@ -1,0 +1,6 @@
+Zusammenhalt;Nichts ist mir wichtiger als andere Mitglieder aus meiner Einsiedelei, meinem Orden oder meine Gemeinschaft.
+Flucht;Ich bin Einsiedler geworden, um jenen zu entgehen, die Jagd auf mich machten und dies wohl noch immer tun. Eines Tages werde ich mich ihnen entgegenstellen.
+Erleuchtung;Ich suche noch immer nach der Erleuchtung, die ich mir von meinem Leben als Einsiedler erhofft hatte, doch die mir bis jetzt verwehrt bleibt.
+Unerwiderte Liebe;Ich bin Einsiedler geworden, weil ich jemanden liebte, der diese Liebe nicht teilte.
+Geheimnis;Sollte meine Entdeckung ans Tageslicht kommen, könnte ich die ganze Welt ins Verderben stürzen.
+Isolation;Meine Isolation hat mir ein umfassendes Verständnis eines Übels gebracht, das nur ich zerstören kann.

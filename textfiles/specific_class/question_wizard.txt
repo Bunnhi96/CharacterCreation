@@ -1,0 +1,10 @@
+Als Magier bist du Schüler an einer der folgenden Schulen:
+
+Schule der Bannmagie
+Schule der Beschwörung
+Schule der Erkenntnismagie
+Schule der Hervorrufung
+Schule der Illusion
+Schule der Nekromantie
+Schule der Verwandlung
+Schule der Verzauberung

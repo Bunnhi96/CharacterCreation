@@ -1,0 +1,6 @@
+unfokussiert;Ich werde schnell von der Aussicht auf Informationen abgelenkt.
+furchtlos;Die meisten laufen schreiend davon, wenn sie einen Dämon sehen. Ich bleibe stehen und mach mir Notizen zu seiner Anatomie.
+wissenbegierdig;Ein uraltes Mysterium zu entschlüsseln, ist es wert, eine Zivilisation zu opfern.
+unaufmerksam;Ich übersehe einfache Lösungen zugunsten komplizierter.
+rücksichtslos;Ich rede, ohne nachzudenken, womit ich unweigerlich andere verletze.
+verräterisch;Ich kann kein Geheimnis für mich behalten, auch wenn mein Leben oder das anderer auf dem Spiel steht.
