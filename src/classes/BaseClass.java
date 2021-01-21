@@ -254,7 +254,6 @@ public class BaseClass {
 		return name_class;
 	}
 	public int getCharisma() {
-		System.out.println("Charisma class get " + charisma);
 		return charisma;
 	}
 	public int getStrength() {

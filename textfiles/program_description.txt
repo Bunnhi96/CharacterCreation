@@ -6,3 +6,4 @@ Im Anschluss wird das Ergebnis ausgewertet und ein passender Charakter wird für
 Vergleiche hierfür das Buch: von B. Cordell, J. Wyatt und R. J. Schwalb, Dungeons & Dragons Players Handbook - Spielerhandbuch, Litauen: Gale Force Nine, 2018.)
 
 Starte jetzt dein Abenteuer;question_1
+Zufallscharakter;question_1
