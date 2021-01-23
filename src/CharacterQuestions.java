@@ -103,9 +103,10 @@ public class CharacterQuestions extends CharacterGUI{
         		if (count == 1) {
         			String[] tokens = line.split(";");
         			JButton button = new JButton (tokens[0]);
+    				button.setFont(new Font("Rockwell", Font.PLAIN, 24));
+        			//for random button: add buttons to a list and count them
         			list.add(button);
         			buttoncount++;
-    				button.setFont(new Font("Rockwell", Font.PLAIN, 24));
     				if(randomButton == true) {
     					button.setVisible(false);
     				}
@@ -130,7 +131,8 @@ public class CharacterQuestions extends CharacterGUI{
 								}
 								
 								
-								if (tokens.length > 1) {										
+								if (tokens.length > 1) {
+									//Buttonname/tokens[0];[tokens[1];tokens[2] 
 									if (tokens.length>2) {
 										if (baseRace == false && baseClass == false) {
 			        						base_race.setRace(tokens[2]);
@@ -144,13 +146,13 @@ public class CharacterQuestions extends CharacterGUI{
 									}
 									
 									//random button
-									if (tokens[0].equals("Zufallscharakter")) {											
+									if (tokens[0].equals("Zufallscharakter erstellen")) {											
 										randomButton = true;
 										clearPanel();
 										readFromFile(tokens[1] + ".txt");
 									}
 									
-									//choose attribute for race and class
+									//choose main attribute for race and class
 									else if(doc.equals("question_1.txt")) {
 			        					String attribute_tokens [] = tokens[1].split("_");
 			        					attribute = attribute_tokens[3];
@@ -158,7 +160,7 @@ public class CharacterQuestions extends CharacterGUI{
 										readFromFile(tokens[1]+".txt");	
 			        				}
 									
-									//choose personality
+									//choose background personality
 									else if(doc.equals("question_backgrounds.txt")) {
 										personality = tokens[1];
 			        	        		base_personality.setPersonality(tokens[0]);
@@ -318,7 +320,8 @@ public class CharacterQuestions extends CharacterGUI{
 		txt.append("Weisheit-Modifikator: " + calculateModifiers(wisdom)+ newline);
 		txt.append("Charisma: " + charisma+ newline);
 		txt.append("Charisma-Modifikator: " +calculateModifiers(charisma)+ newline);
-		txt.append(newline +"Alle zusätzlichen Informationen zum Charakter (z.B.: Fertigkeiten, Ausrüstung, etc.) findest du im jeweiligen Kapitel des Regelwerkes: " + newline);
+		txt.append(newline + "Trage alle Informationen auf deinen Charakterbogen ein." + newline);
+		txt.append("Alle weiteren Informationen zum Charakter (z.B.: Fertigkeiten, Ausrüstung, etc.) findest du im jeweiligen Kapitel des Regelwerkes: " + newline);
 		txt.append("B. Cordell, J. Wyatt und R. J. Schwalb, Dungeons & Dragons Players Handbook - Spielerhandbuch, Litauen: Gale Force Nine, 2018." + newline);
 		//decrease font size
 		txt.setFont(new Font("Rockwell", Font.PLAIN, 22));
@@ -334,6 +337,7 @@ public class CharacterQuestions extends CharacterGUI{
 			public void actionPerformed(ActionEvent ae) {
 				if(ae.getSource() == restart) {
 					clearPanel();
+					frame.dispose();
 					Character c = new Character();
 				}
 			}
@@ -372,9 +376,6 @@ public class CharacterQuestions extends CharacterGUI{
 		panelA.repaint();
 		panelB.revalidate();
 		panelB.repaint();	
-		frame.revalidate();
-		frame.repaint();
-		
 	}
 
 	
